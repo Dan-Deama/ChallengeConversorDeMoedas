@@ -1,7 +1,7 @@
 # 💸 Conversor de Moedas – Java 
 Um aplicativo em Java que converte valores entre diferentes moedas usando a ExchangeRate API, permitindo que o usuário escolha o tipo de conversão, digite o valor, visualize o resultado e registre um histórico das conversões realizadas.
 
-
+***
 
 ##  🧰 Funcionalidades 
 - Menu interativo com múltiplas opções de conversão
@@ -11,7 +11,7 @@ Um aplicativo em Java que converte valores entre diferentes moedas usando a Exch
 - Geração de arquivo .json com resultado da conversão
 - Tratamento de exceções e mensagens de erro amigáveis
 
-
+***
 
 ##  🎯 Tecnologias utilizadas 
 - Java 17+
@@ -22,7 +22,7 @@ Um aplicativo em Java que converte valores entre diferentes moedas usando a Exch
 - LocalDateTime para data/hora
 - Escrita de arquivos (FileWriter, PrintWriter)
   
-
+***
 
 ##  🚀 Como executar 
 - Clone o projeto:
@@ -36,20 +36,20 @@ javac Principal.java
 - Execute o aplicativo:
 java Principal
 
-
+***
 
 ## 📂 Estrutura do projeto
-ConversorDeMoedas/
-├── Principal.java
-├── Menu.java
-├── Conversor.java
-├── TaxaDeConversao.java
-├── GravadorDeArquivo.java
-├── GeradorDeArquivo.java
-├── conversoes.json
-└── historico_conversoes.txt
+ConversorDeMoedas/ <br>
+├── Principal.java <br>
+├── Menu.java <br>
+├── Conversor.java <br>
+├── TaxaDeConversao.java <br>
+├── GravadorDeArquivo.java <br>
+├── GeradorDeArquivo.java <br>
+├── conversoes.json <br>
+└── historico_conversoes.txt <br>
 
-
+***
 
 ##  📋 Exemplo de uso 
 BEM VINDO AO CONVERSOR DE VALORES!
@@ -65,14 +65,13 @@ Digite o valor: 100
 ✅ Conversão registrada em historico_conversoes.txt 
 ✅ Arquivo JSON gerado com detalhes
 
-
+***
 
 ## 🛡️ Tratamento de erros
 - Verificação de opções inválidas
 - Captura de exceções de rede e parsing
 
-
-
+***
 
 ## 📜 Licença
 Este projeto está licenciado sob a MIT License — fique à vontade para usar e contribuir!
