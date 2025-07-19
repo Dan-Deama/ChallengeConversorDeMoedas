@@ -2,6 +2,10 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+*.iml
+*.iws
+
 
 ### Eclipse ###
 .apt_generated
@@ -27,3 +31,21 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# 📦 Maven
+target/
+
+# 🔨 Gradle
+build/
+.gradle/
+
+# 🧪 Arquivos de configuração de editor
+*.sublime-project
+*.sublime-workspace
+
+# 🚫 Arquivos do sistema
+Thumbs.db
+
+# 🌐 Arquivos gerados pela aplicação
+conversoes.json
+historico_conversoes.txt
