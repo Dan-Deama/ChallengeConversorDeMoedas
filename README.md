@@ -1,9 +1,9 @@
-# **💸 Conversor de Moedas – Java **
+# 💸 Conversor de Moedas – Java 
 Um aplicativo em Java que converte valores entre diferentes moedas usando a ExchangeRate API, permitindo que o usuário escolha o tipo de conversão, digite o valor, visualize o resultado e registre um histórico das conversões realizadas.
 
 
 
-## ** 🧰 Funcionalidades **
+##  🧰 Funcionalidades 
 - Menu interativo com múltiplas opções de conversão
 - Integração com API de taxas de câmbio em tempo real
 - Conversão entre BRL, USD, EUR, ARS
@@ -13,7 +13,7 @@ Um aplicativo em Java que converte valores entre diferentes moedas usando a Exch
 
 
 
-## ** 🎯 Tecnologias utilizadas **
+##  🎯 Tecnologias utilizadas 
 - Java 17+
 - HttpClient para requisições HTTP
 - Gson para manipulação de JSON
@@ -24,7 +24,7 @@ Um aplicativo em Java que converte valores entre diferentes moedas usando a Exch
   
 
 
-## ** 🚀 Como executar **
+##  🚀 Como executar 
 - Clone o projeto:
 git clone https://github.com/Dan-Deama/ChallengeConversorDeMoedas.git
 
@@ -51,7 +51,7 @@ ConversorDeMoedas/
 
 
 
-## ** 📋 Exemplo de uso **
+##  📋 Exemplo de uso 
 BEM VINDO AO CONVERSOR DE VALORES!
 Escolha um número de acordo com a conversão de que precisa: 
 1) REAL >>>>> DÓLAR AMERICANO.
@@ -67,12 +67,12 @@ Digite o valor: 100
 
 
 
-##🛡️ Tratamento de erros
+## 🛡️ Tratamento de erros
 - Verificação de opções inválidas
 - Captura de exceções de rede e parsing
 
 
 
 
-##📜 Licença
+## 📜 Licença
 Este projeto está licenciado sob a MIT License — fique à vontade para usar e contribuir!
